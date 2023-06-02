@@ -60,7 +60,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Portfolio: setup and mobile first <a name="about-project"></a>
+# 📖 "Hello Microverse" project  <a name="about-project"></a>
 
 > In this project, I created the a header and apply to it some styles using css
 
